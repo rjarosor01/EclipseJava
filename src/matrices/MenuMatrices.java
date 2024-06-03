@@ -23,6 +23,7 @@ public class MenuMatrices {
         do {
  
             //Mensajes del menu
+            System.out.println("*** MENU RAUL ***");
             System.out.println("Menu");
             System.out.println("1. Rellenar Matriz");
             System.out.println("2. Sumar fila");
